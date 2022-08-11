@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-<img src="https://ik.imagekit.io/6al2cedfi/anshul_t6yIcRUEwg.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1660228206119" />
+<img src="https://ik.imagekit.io/6al2cedfi/anshul_t6yIcRUEwg.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1660228206119" height="60" width="60" border-radius="10"/>
 <h2 align="center">About me</h2>
 
 ###
