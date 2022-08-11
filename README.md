@@ -6,6 +6,8 @@
 
 ###
 
+<div align="center">
+<img src="https://ik.imagekit.io/6al2cedfi/anshul_t6yIcRUEwg.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1660228206119" />
 <h2 align="center">About me</h2>
 
 ###
