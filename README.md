@@ -14,7 +14,7 @@
   📚 I'm currently learning Mern stack<br>
   📫 How to reach me: <a href = "email">anshulkedia64@gmail.com</a> <br>
   🎯 Goals: To Achieve something big<br>
-  🎲 Fun fact: I like Javascript</p>
+  🎲 Fun fact: I like Javascript </p>
 
 <h2 align="center">I code with</h2>
 
