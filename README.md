@@ -12,14 +12,11 @@
 <p align="center">✨ Creating bugs since 2021<br>
   🔭 I’m currently working on my portfolio website<br>
   📚 I'm currently learning Mern stack<br>
-  📫 How to reach me: anshulkedia64@gmail.com <br>
+  📫 How to reach me: <a href = "email">anshulkedia64@gmail.com</a> <br>
   🎯 Goals: To Achieve something big<br>
   🎲 Fun fact: I like Javascript</p>
-###
 
 <h2 align="center">I code with</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
