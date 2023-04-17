@@ -7,7 +7,6 @@
 ###
 
 <div align="center">
-<img src="https://ik.imagekit.io/6al2cedfi/anshul_t6yIcRUEwg.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1660228206119" height="400" width="250" border-radius="10px"/>
 <h2 align="center">About me</h2>
 <p align="center">✨ Creating bugs since 2021<br>
   🔭 I’m currently working on my portfolio website<br>
