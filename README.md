@@ -12,7 +12,7 @@
 <p align="center">✨ Creating bugs since 2021<br>
   🔭 I’m currently working on my portfolio website<br>
   📚 I'm currently learning Mern stack<br>
-  📫 How to reach me: <a href = "anshulkediaofficial@gmail.com" target="_blank">g-mail</a> <br>
+  📫 How to reach me: <a href = "anshulkediaofficial@gmail.com" target="_blank">anshulkediaofficial@gmail.com</a> <br>
   🎯 Goals: To Achieve something big<br>
   🎲 Fun fact: I like Javascript </p>
 
