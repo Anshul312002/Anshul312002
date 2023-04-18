@@ -2,12 +2,12 @@
 
 ###
 
-<p align="center">My name is *Anshul kedia *<br> I am From  Sambalpur Odisha <br>A Passionate Frontend Developer <br>Born For putting css in life</p>
+<p align="center">My name is *Anshul kedia *<br> I am From  Sambalpur,Odisha <br> A Passionate Frontend Developer <br> Born For putting css in life</p>
 
 ###
 
 <div align="center">
-<h2 align="center">About me</h2>
+<h2 align="center"> About me </h2>
 <p align="center">✨ Creating bugs since 2021<br>
   🔭 I’m currently working on my portfolio website<br>
   📚 I'm currently learning Mern stack<br>
