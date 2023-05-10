@@ -8,11 +8,11 @@
 
 <div align="center">
 <h2 align="center"> About me </h2>
-<p align="center">✨ Creating bugs since 2021<br>
-  🔭 I’m currently working on my portfolio website<br>
-  📚 I'm currently learning Mern stack<br>
+<p align="center">✨ Creating bugs since 2021 <br>
+  🔭 I’m currently working on my portfolio website <br>
+  📚 I'm currently learning Mern stack <br>
   📫 How to reach me: <a href = "https://mail.google.com/mail/u/1/?view=cm&fs=1&to=anshulkediaofficial@gmail.com&tf=1" target="_blank">anshulkediaofficial@gmail.com</a> <br>
-  🎯 Goals: To Achieve something big<br>
+  🎯 Goals: To Achieve something big in life <br>
   🎲 Fun fact: I like Javascript </p>
 
 <h2 align="center">I code with</h2>
