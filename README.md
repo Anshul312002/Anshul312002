@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is *Anshul kedia *<br> I am From  Sambalpur,Odisha <br> A Passionate Frontend Developer <br> Born For putting css in life</p>
+<p align="center">My name is " Anshul kedia "<br> I am From  Sambalpur,Odisha <br> A Passionate Frontend Developer <br> Born For putting css in life</p>
 
 ###
 
